@@ -1,0 +1,35 @@
+html, body {
+	margin: 0;
+	width: 100%;
+	height: 100%;
+}
+#stage {
+	width: 100%;
+	height: 100%;
+}
+
+.view {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+
+button {
+	width: 50%;
+	height: 10%;
+	margin: 5%;
+}
+
+#view0 {
+	background-color: linen;
+}
+#view1 {
+	background-color: azure;
+}
+#view2 {
+	background-color: ivory;
+}
+#view3 {
+	background-color: pink;
+}
